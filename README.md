@@ -19,6 +19,8 @@ If you want to dig deeper, take a look at the following resources:
 
 * [Official Documentation](https://docs.python.org/3/)
 
+* [Full Stack Python](https://www.fullstackpython.com/)
+
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 * [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
